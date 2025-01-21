@@ -6,6 +6,7 @@
 #include <virtuabotixRTC.h>
 #include <Time.h>
 #include <SD.h>
+#include <SPI.h>
 
 #include <build_time.h>
 #include <pins.h>
